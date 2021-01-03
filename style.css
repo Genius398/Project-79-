@@ -127,3 +127,12 @@ ol.menulist>li
 	width:100px;
 	height: 80px;
 }
+
+body{
+	background-color: #ff8a82;
+}
+
+Pizza{
+	width: 30;
+	height: 30;
+}
